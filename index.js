@@ -1,5 +1,5 @@
 var superb = require('superb');
-var persons = require('./persons.json');
+var persons = Object.keys(require('./persons.json'));
 
 var capitalize = function (word) {
   return word[0].toUpperCase() + word.substr(1);
