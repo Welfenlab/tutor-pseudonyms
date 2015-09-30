@@ -1,0 +1,29 @@
+{
+  "name": "tutor-pseudonyms",
+  "version": "1.0.0",
+  "description": "Groundbreaking, breathtaking and spectacular pseudonym generator using superb and some phenomenal computer scientist's names.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Welfenlab/tutor-pseudonyms.git"
+  },
+  "keywords": [
+    "pseudonym",
+    "generator"
+  ],
+  "author": "Welfenlab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Welfenlab/tutor-pseudonyms/issues"
+  },
+  "homepage": "https://github.com/Welfenlab/tutor-pseudonyms#readme",
+  "dependencies": {
+    "superb": "^1.2.0"
+  },
+  "devDependencies": {
+    "ava": "^0.2.0"
+  }
+}
